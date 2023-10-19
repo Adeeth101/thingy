@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Cameron Werner
+    uid: u7265364
+  - name: Adith Rajesh Iyer
+    uid: u7623871
+  - name: Honglin Chen
+    uid: u7306715
